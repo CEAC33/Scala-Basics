@@ -5,7 +5,7 @@
 ### Scala Levels 
 (Ref: http://www.scala-lang.org/old/node/8610)
 
-Oderski introduced the concept of the levels of mastery of Scala (A1, A2/L1, A3/L2, L3) 
+Oderski introduced the concept of the Levels of Mastery of Scala (A1, A2/L1, A3/L2, L3) 
 - Level A1: Beginning application programmer
 - Level A2: Intermediate application programmer
 - Level A3: Expert application programmer
