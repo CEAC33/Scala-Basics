@@ -19,7 +19,7 @@ You have mastered the language perfectly if you can read "heavy" "type acrobatic
 
 Recommended Blog: https://typelevel.org/blog/
 
-### Introductory articles on Scala
+### Introductory Articles on Scala
 - A Tour of the Scala Programming Language - http://www.scala-lang.org/docu/files/ScalaTour-1.6.pdf
 - An Overview of the Scala Programming Language - http://www.cse.unt.edu/~tarau/teaching/ScalaCourse/ScalaPapers/ScalaOverview.pdf
 - A Scala Tutorial for Java programmers - http://scala-lang.org/docu/files/ScalaTutorial.pdf
@@ -29,7 +29,7 @@ Recommended Blog: https://typelevel.org/blog/
 - Twitter.com: "Effective Scala" - http://twitter.github.io/effectivescala/
 - scala-lang.org: Style Guide - http://docs.scala-lang.org/style/
 
-### Interesting collection of examples
+### Interesting Collection of examples
 - Twitter.com: Scala School! - https://twitter.github.io/scala_school/
 - "Learning Scala in Small Bites" - http://matt.might.net/articles/learning-scala-in-small-bites/
 - "Scala coans" - You can download a zip-archive with examples of code (approximately 5-15 examples) on 20-30 basic topics - http://www.scalakoans.org/
@@ -39,4 +39,4 @@ Recommended Blog: https://typelevel.org/blog/
 - Coursera: Functional Programming in Scala Specialization - https://www.coursera.org/specializations/scala
 
 # References 
-https://www.udemy.com/scala-for-java-developers-ru/learn/v4/
+- https://www.udemy.com/scala-for-java-developers-ru/learn/v4/
