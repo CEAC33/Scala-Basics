@@ -6,14 +6,14 @@
 (Ref: http://www.scala-lang.org/old/node/8610)
 
 Oderski introduced the concept of the Levels of Mastery of Scala (A1, A2/L1, A3/L2, L3) 
-- Level A1: Beginning application programmer
-- Level A2: Intermediate application programmer
-- Level A3: Expert application programmer
-- Level L1: Junior library designer
-- Level L2: Senior library designer
-- Level L3: Expert library designer
+- Level A1: Beginning Application Programmer
+- Level A2: Intermediate Application Programmer
+- Level A3: Expert Application Programmer
+- Level L1: Junior Library Designer
+- Level L2: Senior Library Designer
+- Level L3: Expert Library Designer
 
-You have mastered the language perfectly if you can read "heavy" "type acrobatic" libraries and understand both the constructions / algorithms and the reasons for architectural solutions
+You have mastered the language perfectly if you can read "heavy" "type acrobatic" Libraries and understand both the Constructions/Algorithms and the reasons for Architectural Solutions
 - Scalaz    - https://github.com/scalaz/scalaz
 - Shapeless - https://github.com/milessabin/shapeless 
 
