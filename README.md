@@ -49,6 +49,24 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 - Scala Style Guide - http://docs.scala-lang.org/style/
 - Scala Language Specification (2.12) - http://www.scala-lang.org/files/archive/spec/2.12/ 
 
+# OOP - No Inheritance
+
+### OOP Intro
+| Java                                  | Scala                                         |  
+|---------------------------------------|-----------------------------------------------|
+| class (only non-statics)              | class                                         |
+| class (only statics)                  | object                                        |
+| + field, method, constructor          | field (var, val), method (def), constructor   | 
+|	+ inner class 					              | inner class (type projection)                 |
+|	-								                      | inner class (path dependent)                  |
+|	- 								                    | type (type)                                   |
+| object = class instance				        | class instance                                |
+| abs.class, interface (methods, Java 8)| abs. class, trait (def, var, constructor)     |
+|=======================================|===============================================|
+|	-								                      | case class  = class  + auto-generated code    |
+|	-								                      | case object = object + auto-generated code    |
+|	-								                      | package object                                |
+
 # Testing Tools
 - https://www.scalacheck.org/
 
