@@ -1,5 +1,11 @@
 
 
+// 1.- 'Int'    Compiled            to  'int'
+// 2.- 'Int'    "has Methods"       =>  Implicit Conversions
+// 3.- 'String' Compiled            to  'java.lang.String'
+// 4.- 'String' "has new Methods"   =>  Implicit Conversions
+// 5.- Implicit Conversions         to  Different Classes
+
 object Demo
 {
   val x           : Int     = 0
