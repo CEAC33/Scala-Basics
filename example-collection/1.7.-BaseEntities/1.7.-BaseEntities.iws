@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b13901c7-8220-4cd2-b850-24aef55706e8" name="Default" comment="" />
+    <list default="true" id="d470f270-e773-4914-aced-e03bc80b225a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -20,14 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Demo.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Demo.scala">
+      <file leaf-file-name="DemoClassA.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/DemoClassA.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-              <folding>
-                <element signature="e#14#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="409">
+              <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -42,7 +40,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/Demo.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/DemoClassA.scala" />
       </list>
     </option>
   </component>
@@ -53,7 +51,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
+    <option name="x" value="1439" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="701" />
@@ -73,21 +71,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="1.6.-ImplicitImports" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1.6.-ImplicitImports" type="462c0819:PsiDirectoryNode" />
+              <item name="1.7.-BaseEntities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1.7.-BaseEntities" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1.6.-ImplicitImports" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1.6.-ImplicitImports" type="462c0819:PsiDirectoryNode" />
+              <item name="1.7.-BaseEntities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1.7.-BaseEntities" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1.6.-ImplicitImports" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1.6.-ImplicitImports" type="462c0819:PsiDirectoryNode" />
+              <item name="1.7.-BaseEntities" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1.7.-BaseEntities" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -95,10 +95,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,24 +199,24 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1514486420528" />
+    <option name="lastUpdateTimestamp" value="1514488505053" />
     <option name="availableProjects">
       <map>
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="1.6.-ImplicitImports" />
+              <option name="name" value="1.7.-BaseEntities" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="root-1-6-implicitimports" />
+                <option name="name" value="root-1-7-baseentities" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="root-1-6-implicitimports-build" />
+                <option name="name" value="root-1-7-baseentities-build" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -238,20 +236,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b13901c7-8220-4cd2-b850-24aef55706e8" name="Default" comment="" />
-      <created>1514486405629</created>
+      <changelist id="d470f270-e773-4914-aced-e03bc80b225a" name="Default" comment="" />
+      <created>1514488489903</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1514486405629</updated>
-      <workItem from="1514486406850" duration="1578000" />
+      <updated>1514488489903</updated>
+      <workItem from="1514488491129" duration="2122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1578000" />
+    <option name="totallyTimeSpent" value="2122000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="23" width="1920" height="701" extended-state="0" />
+    <frame x="1439" y="23" width="1920" height="701" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -296,13 +294,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Demo.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/DemoClassA.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-          <folding>
-            <element signature="e#14#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="409">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
