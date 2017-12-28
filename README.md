@@ -38,6 +38,17 @@ Recommended Blog: https://typelevel.org/blog/
 - Coursera: Functional Programming Principles in Scala - https://www.coursera.org/learn/progfun1
 - Coursera: Functional Programming in Scala Specialization - https://www.coursera.org/specializations/scala
 
+### JRE, Java, JVM, Reflection API ans Scala
+
+![jdk](
+https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J-E1dzRw-fk_q2RQPHxQsY5acbeH5p7Vxopl-sb1jZ2zzSxd5LY-kFJ0Hmc1G3LVd-kEFeOW1GepseQUmUUMWsxLNrHwtNYAmeE-i47yF0n9TOMbrNcYowiqQtwzP32ezcchsLfThZ2TgjfGvzwG7J13SnQdy70A0xykv5juEU7lkNFD-YIVKKJ8AyBziCkNj29WbmP1SeVw9r08S-7Ujr9AHX_V0UK7Q6QycFNgGKghpSsC5iXGYOwJFAtTGO3M2UMdr6I8FvGWfesoDhjCsYXzcp39fdbcgJ07Mo4mTv1dwhbnmiY8OB3qPrtseAaEbHz1I4dbu-w5t0HrejQQKa6TjoJ6wuZG3EdO0jodXB2CDPXj44qqaa1iDzG2PaCoy6jPFSr5xd9ApQPNS21MGakdwJqXnXVg7xCq9NTn7vryp7kyuJvIBmxwncjjcdH_5-zG6-jul40r3Y24EyYVcKMI0BjvpzfbHNcL0HqQiq0_rsUxhwCbBU79E4qhl1MCQnYQaZMpGvWHN63CWTF=w2884-h1458
+)
+
+### Important Sources for Scala
+- Scala Glossary - http://docs.scala-lang.org/glossary/
+- Scala Style Guide - http://docs.scala-lang.org/style/
+- Scala Language Specification (2.12) - http://www.scala-lang.org/files/archive/spec/2.12/ 
+
 # Testing Tools
 - https://www.scalacheck.org/
 
