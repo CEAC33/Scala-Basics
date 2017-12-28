@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/carlosavila/Documents/VYZE/Own-Repos/Scala-Basics/example-collection/1.3.-TypeAnnotation/src/main/scala/Demo.scala:9:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef main(args: Array[String]): Unit =[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
