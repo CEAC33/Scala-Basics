@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cf62536-f096-4b17-834f-44dadb9dcfce" name="Default" comment="" />
+    <list default="true" id="0dbee30f-69af-4f68-b563-b12761664f36" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -23,8 +23,8 @@
       <file leaf-file-name="Demo.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Demo.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="16" column="145" lean-forward="false" selection-start-line="16" selection-start-column="145" selection-end-line="16" selection-end-column="145" />
               <folding />
             </state>
           </provider>
@@ -72,24 +72,23 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="1.4.-ArraysGenerics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1.4.-ArraysGenerics" type="462c0819:PsiDirectoryNode" />
+              <item name="1.5.-StringInt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1.5.-StringInt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1.4.-ArraysGenerics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1.4.-ArraysGenerics" type="462c0819:PsiDirectoryNode" />
+              <item name="1.5.-StringInt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1.5.-StringInt" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="1.4.-ArraysGenerics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1.4.-ArraysGenerics" type="462c0819:PsiDirectoryNode" />
+              <item name="1.5.-StringInt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1.5.-StringInt" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -97,6 +96,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,24 +199,24 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1514483538484" />
+    <option name="lastUpdateTimestamp" value="1514484841546" />
     <option name="availableProjects">
       <map>
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="1.4.-ArraysGenerics" />
+              <option name="name" value="1.5.-StringInt" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="root-1-4-arraysgenerics" />
+                <option name="name" value="root-1-5-stringint" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="root-1-4-arraysgenerics-build" />
+                <option name="name" value="root-1-5-stringint-build" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -233,17 +233,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9cf62536-f096-4b17-834f-44dadb9dcfce" name="Default" comment="" />
-      <created>1514483523241</created>
+      <changelist id="0dbee30f-69af-4f68-b563-b12761664f36" name="Default" comment="" />
+      <created>1514484825026</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1514483523241</updated>
-      <workItem from="1514483524525" duration="1263000" />
+      <updated>1514484825026</updated>
+      <workItem from="1514484826274" duration="860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1263000" />
+    <option name="totallyTimeSpent" value="860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="23" width="1920" height="701" extended-state="0" />
@@ -293,8 +293,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/scala/Demo.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="240">
+          <caret line="16" column="145" lean-forward="false" selection-start-line="16" selection-start-column="145" selection-end-line="16" selection-end-column="145" />
           <folding />
         </state>
       </provider>

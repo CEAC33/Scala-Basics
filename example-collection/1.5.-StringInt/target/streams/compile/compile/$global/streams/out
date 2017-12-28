@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/carlosavila/Documents/VYZE/Own-Repos/Scala-Basics/example-collection/1.5.-StringInt/src/main/scala/Demo.scala:6:21: not found: type range[0m
+[0m[[0m[31merror[0m] [0m[0m  val from0to5    : range   = x.to(5)             // RichInt[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
