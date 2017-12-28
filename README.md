@@ -29,7 +29,7 @@ Recommended Blog: https://typelevel.org/blog/
 - Twitter.com: "Effective Scala" - http://twitter.github.io/effectivescala/
 - scala-lang.org: Style Guide - http://docs.scala-lang.org/style/
 
-### Interesting Collection of examples
+### Interesting Collection of Examples
 - Twitter.com: Scala School! - https://twitter.github.io/scala_school/
 - "Learning Scala in Small Bites" - http://matt.might.net/articles/learning-scala-in-small-bites/
 - "Scala coans" - You can download a zip-archive with examples of code (approximately 5-15 examples) on 20-30 basic topics - http://www.scalakoans.org/
@@ -37,6 +37,9 @@ Recommended Blog: https://typelevel.org/blog/
 ### Video Courses
 - Coursera: Functional Programming Principles in Scala - https://www.coursera.org/learn/progfun1
 - Coursera: Functional Programming in Scala Specialization - https://www.coursera.org/specializations/scala
+
+# Testing Tools
+- https://www.scalacheck.org/
 
 # References 
 - https://www.udemy.com/scala-for-java-developers-ru/learn/v4/
