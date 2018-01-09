@@ -38,7 +38,7 @@ Recommended Blog: https://typelevel.org/blog/
 - Coursera: Functional Programming Principles in Scala - https://www.coursera.org/learn/progfun1
 - Coursera: Functional Programming in Scala Specialization - https://www.coursera.org/specializations/scala
 
-### JRE, Java, JVM, Reflection API ans Scala
+### JRE, Java, JVM, Reflection API and Scala
 
 ![jdk](
 https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J-E1dzRw-fk_q2RQPHxQsY5acbeH5p7Vxopl-sb1jZ2zzSxd5LY-kFJ0Hmc1G3LVd-kEFeOW1GepseQUmUUMWsxLNrHwtNYAmeE-i47yF0n9TOMbrNcYowiqQtwzP32ezcchsLfThZ2TgjfGvzwG7J13SnQdy70A0xykv5juEU7lkNFD-YIVKKJ8AyBziCkNj29WbmP1SeVw9r08S-7Ujr9AHX_V0UK7Q6QycFNgGKghpSsC5iXGYOwJFAtTGO3M2UMdr6I8FvGWfesoDhjCsYXzcp39fdbcgJ07Mo4mTv1dwhbnmiY8OB3qPrtseAaEbHz1I4dbu-w5t0HrejQQKa6TjoJ6wuZG3EdO0jodXB2CDPXj44qqaa1iDzG2PaCoy6jPFSr5xd9ApQPNS21MGakdwJqXnXVg7xCq9NTn7vryp7kyuJvIBmxwncjjcdH_5-zG6-jul40r3Y24EyYVcKMI0BjvpzfbHNcL0HqQiq0_rsUxhwCbBU79E4qhl1MCQnYQaZMpGvWHN63CWTF=w2884-h1458
@@ -48,6 +48,24 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 - Scala Glossary - http://docs.scala-lang.org/glossary/
 - Scala Style Guide - http://docs.scala-lang.org/style/
 - Scala Language Specification (2.12) - http://www.scala-lang.org/files/archive/spec/2.12/ 
+
+# OOP - No Inheritance
+
+### OOP Intro
+| Java                                  | Scala                                         |  
+|---------------------------------------|-----------------------------------------------|
+| class (only non-statics)              | class                                         |
+| class (only statics)                  | object                                        |
+| + field, method, constructor          | field (var, val), method (def), constructor   | 
+|	+ inner class 					              | inner class (type projection)                 |
+|	-								                      | inner class (path dependent)                  |
+|	- 								                    | type (type)                                   |
+| object = class instance				        | class instance                                |
+| abs.class, interface (methods, Java 8)| abs. class, trait (def, var, constructor)     |
+|=======================================|===============================================|
+|	-								                      | case class  = class  + auto-generated code    |
+|	-								                      | case object = object + auto-generated code    |
+|	-								                      | package object                                |
 
 # Testing Tools
 - https://www.scalacheck.org/
