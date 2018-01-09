@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="2-3-java-bean-style-getter-setter"
+		module="2-3-java-bean-style-getter-setter$sbt_2.12"
+		revision="0.1"
+		conf="provided"
+		confs="compile, runtime, test, provided, optional"
+		date="20180109160934"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
