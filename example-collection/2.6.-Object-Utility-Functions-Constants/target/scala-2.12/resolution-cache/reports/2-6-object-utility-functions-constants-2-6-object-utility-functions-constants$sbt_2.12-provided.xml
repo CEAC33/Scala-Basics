@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="2-6-object-utility-functions-constants"
+		module="2-6-object-utility-functions-constants$sbt_2.12"
+		revision="0.1"
+		conf="provided"
+		confs="compile, runtime, test, provided, optional"
+		date="20180111122646"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
