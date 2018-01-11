@@ -1,0 +1,22 @@
+package  demo
+
+class DemoS
+{
+  def f() : Int   =   0
+  val k   : Int   =   1
+}
+
+object DemoS
+{
+  def f() : Int   =   0
+  val k   : Int   =   1
+}
+
+class X
+{
+  //new DemoS().k
+  //new DemoS().f
+
+  //DemoS.k
+  //DemoS.f
+}
