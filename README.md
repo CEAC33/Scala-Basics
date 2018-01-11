@@ -52,20 +52,28 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 # OOP - No Inheritance
 
 ### OOP Intro
-| Java                                  | Scala                                         |  
-|---------------------------------------|-----------------------------------------------|
-| class (only non-statics)              | class                                         |
-| class (only statics)                  | object                                        |
-| + field, method, constructor          | field (var, val), method (def), constructor   | 
-|	+ inner class 					              | inner class (type projection)                 |
-|	-								                      | inner class (path dependent)                  |
-|	- 								                    | type (type)                                   |
-| object = class instance				        | class instance                                |
-| abs.class, interface (methods, Java 8)| abs. class, trait (def, var, constructor)     |
-|=======================================|===============================================|
-|	-								                      | case class  = class  + auto-generated code    |
-|	-								                      | case object = object + auto-generated code    |
-|	-								                      | package object                                |
+| Java                                  | Scala                                                  |  
+|---------------------------------------|--------------------------------------------------------|
+| class (only non-statics)              | class                                                  |
+| class (only statics)                  | object                                                 |
+| + field, method, constructor          | field (var, val), method (def), constructor            | 
+|	+ inner class 					              | inner class (type projection)                          |
+|	-								                      | inner class (path dependent)                           |
+|	- 								                    | type (type)                                            |
+| object = class instance				        | class instance                                         |
+| abs.class, interface (methods, Java 8)| abs. class, trait (def, var, constructor)              |
+|=======================================|========================================================|
+|	-								                      | case class  = class  + auto-generated code             |
+|	-								                      | case object = object + auto-generated code             |
+|	-								                      | package object                                         |
+
+### Object Intro
+| Scala Object                          | Java static (fields, methods)                          |  
+|---------------------------------------|--------------------------------------------------------|
+| companion object = companion module   | class static members    (Person.MAX_AGE, ...)          |
+| object (single, not companion) methods| utility "functions"/"constants" (Math.sin, Math.PI) .. |
+| singleton                             | -                                                      |
+| package object                        | -                                                      |
 
 # Testing Tools
 - https://www.scalacheck.org/
