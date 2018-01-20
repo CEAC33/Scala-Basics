@@ -62,7 +62,7 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 |	- 								                    | type (type)                                            |
 | object = class instance				        | class instance                                         |
 | abs.class, interface (methods, Java 8)| abs. class, trait (def, var, constructor)              |
-|=======================================|========================================================|
+|=============================|=================================|
 |	-								                      | case class  = class  + auto-generated code             |
 |	-								                      | case object = object + auto-generated code             |
 |	-								                      | package object                                         |
