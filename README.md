@@ -75,6 +75,12 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 | singleton                             | -                                                      |
 | package object                        | -                                                      |
 
+### Methods: Parentless
+
+- Composition and Inheritance - Defining parameterless methods - http://www.artima.com/pins1ed/composition-and-inheritance.html#10.3
+- Glossary - Scala Documentation - http://docs.scala-lang.org/glossary/#uniform-access-principle
+- Uniform access principle - https://en.wikipedia.org/wiki/Uniform_access_principle
+
 # Testing Tools
 - https://www.scalacheck.org/
 
