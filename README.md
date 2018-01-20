@@ -81,6 +81,11 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 - Glossary - Scala Documentation - http://docs.scala-lang.org/glossary/#uniform-access-principle
 - Uniform access principle - https://en.wikipedia.org/wiki/Uniform_access_principle
 
+### Methods: "Procedure" Style
+- Basic Declarations and Definitions - http://www.scala-lang.org/files/archive/spec/2.11/04-basic-declarations-and-definitions.html#procedures
+- Style - Declarations - http://docs.scala-lang.org/style/declarations.html#procedure-syntax
+- Deprecate procedure syntax - https://issues.scala-lang.org/browse/SI-7605
+
 # Testing Tools
 - https://www.scalacheck.org/
 
