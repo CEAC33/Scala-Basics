@@ -90,6 +90,8 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 
 ### Operators: Intro
 - Operators - https://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.12
+- Prefix, Infix and Postfix Operations- http://www.scala-lang.org/files/archive/spec/2.11/06-expressions.html#prefix-infix-and-postfix-operations
+
 
 # Testing Tools
 - https://www.scalacheck.org/
