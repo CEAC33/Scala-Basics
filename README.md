@@ -49,7 +49,7 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 - Scala Style Guide - http://docs.scala-lang.org/style/
 - Scala Language Specification (2.12) - http://www.scala-lang.org/files/archive/spec/2.12/ 
 
-# OOP - No Inheritance
+# OOP I - No Inheritance
 
 ### OOP Intro
 | Java                                  | Scala                                                  |  
@@ -85,6 +85,8 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 - Basic Declarations and Definitions - http://www.scala-lang.org/files/archive/spec/2.11/04-basic-declarations-and-definitions.html#procedures
 - Style - Declarations - http://docs.scala-lang.org/style/declarations.html#procedure-syntax
 - Deprecate procedure syntax - https://issues.scala-lang.org/browse/SI-7605
+
+# OOP II - Operator Overloading
 
 ### Operators: Intro
 - Operators - https://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.12
