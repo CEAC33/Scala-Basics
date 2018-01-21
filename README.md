@@ -86,6 +86,9 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 - Style - Declarations - http://docs.scala-lang.org/style/declarations.html#procedure-syntax
 - Deprecate procedure syntax - https://issues.scala-lang.org/browse/SI-7605
 
+### Operators: Intro
+- Operators - https://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.12
+
 # Testing Tools
 - https://www.scalacheck.org/
 
