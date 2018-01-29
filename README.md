@@ -6,6 +6,10 @@
 <p>
 
 ### Scala Levels 
+
+<details><summary>Show Scala Levels</summary>
+<p>
+
 (Ref: http://www.scala-lang.org/old/node/8610)
 
 Oderski introduced the concept of the Levels of Mastery of Scala (A1, A2/L1, A3/L2, L3) 
@@ -22,38 +26,85 @@ You have mastered the language perfectly if you can read "heavy" "type acrobatic
 
 Recommended Blog: https://typelevel.org/blog/
 
+</p>
+</details>
+
 ### Introductory Articles on Scala
+
+<details><summary>Show Introductory Articles on Scala</summary>
+<p>
+
 - A Tour of the Scala Programming Language - http://www.scala-lang.org/docu/files/ScalaTour-1.6.pdf
 - An Overview of the Scala Programming Language - http://www.cse.unt.edu/~tarau/teaching/ScalaCourse/ScalaPapers/ScalaOverview.pdf
 - A Scala Tutorial for Java programmers - http://scala-lang.org/docu/files/ScalaTutorial.pdf
 
+</p>
+</details>
+
 ### Scala Style Guide
+
+<details><summary>Show Scala Style Guide</summary>
+<p>
+
 - PayPal Style Guide - https://github.com/paypal/scala-style-guide
 - Twitter.com: "Effective Scala" - http://twitter.github.io/effectivescala/
 - scala-lang.org: Style Guide - http://docs.scala-lang.org/style/
 
+</p>
+</details>
+
 ### Interesting Collection of Examples
+
+<details><summary>Show Interesting Collection of Examples</summary>
+<p>
+
 - Twitter.com: Scala School! - https://twitter.github.io/scala_school/
 - "Learning Scala in Small Bites" - http://matt.might.net/articles/learning-scala-in-small-bites/
 - "Scala coans" - You can download a zip-archive with examples of code (approximately 5-15 examples) on 20-30 basic topics - http://www.scalakoans.org/
 
+</p>
+</details>
+
 ### Video Courses
+
+<details><summary>Show Video Courses</summary>
+<p>
+
 - Coursera: Functional Programming Principles in Scala - https://www.coursera.org/learn/progfun1
 - Coursera: Functional Programming in Scala Specialization - https://www.coursera.org/specializations/scala
 
+</p>
+</details>
+
 ### JRE, Java, JVM, Reflection API and Scala
+
+<details><summary>Show JRE, Java, JVM, Reflection API and Scala</summary>
+<p>
 
 ![jdk](
 https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J-E1dzRw-fk_q2RQPHxQsY5acbeH5p7Vxopl-sb1jZ2zzSxd5LY-kFJ0Hmc1G3LVd-kEFeOW1GepseQUmUUMWsxLNrHwtNYAmeE-i47yF0n9TOMbrNcYowiqQtwzP32ezcchsLfThZ2TgjfGvzwG7J13SnQdy70A0xykv5juEU7lkNFD-YIVKKJ8AyBziCkNj29WbmP1SeVw9r08S-7Ujr9AHX_V0UK7Q6QycFNgGKghpSsC5iXGYOwJFAtTGO3M2UMdr6I8FvGWfesoDhjCsYXzcp39fdbcgJ07Mo4mTv1dwhbnmiY8OB3qPrtseAaEbHz1I4dbu-w5t0HrejQQKa6TjoJ6wuZG3EdO0jodXB2CDPXj44qqaa1iDzG2PaCoy6jPFSr5xd9ApQPNS21MGakdwJqXnXVg7xCq9NTn7vryp7kyuJvIBmxwncjjcdH_5-zG6-jul40r3Y24EyYVcKMI0BjvpzfbHNcL0HqQiq0_rsUxhwCbBU79E4qhl1MCQnYQaZMpGvWHN63CWTF=w2884-h1458
 )
 
+</p>
+</details>
+
 ### Important Sources for Scala
+
+<details><summary>Show Important Sources for Scala</summary>
+<p>
+
 - Scala Glossary - http://docs.scala-lang.org/glossary/
 - Scala Style Guide - http://docs.scala-lang.org/style/
 - Scala Language Specification (2.12) - http://www.scala-lang.org/files/archive/spec/2.12/ 
 
+</p>
+</details>
+
 
 ### 1.1.-HelloWorld
+
+<details><summary>Show 1.1.-HelloWorld</summary>
+<p>
 
 - Demo0.scala
 ```scala
@@ -75,7 +126,13 @@ https://lh3.googleusercontent.com/h57LTjY5qb0bywx4TLmZRxo767teqktTzyKWENsZxnrC_J
 }
 ```
 
+</p>
+</details>
+
 ### 1.2.-Object
+
+<details><summary>Show 1.2.-Object</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -110,7 +167,13 @@ object Demo
 }
 ```
 
+</p>
+</details>
+
 ### 1.3.-TypeAnnotation 
+
+<details><summary>Show 1.3.-TypeAnnotation</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -127,7 +190,13 @@ object Demo
 }
 ```
 
+</p>
+</details>
+
 ### 1.4.-ArraysGenerics 
+
+<details><summary>Show 1.4.-ArraysGenerics</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -162,7 +231,13 @@ object Demo
 }
 ```
 
+</p>
+</details>
+
 ### 1.5.-StringInt 
+
+<details><summary>Show 1.5.-StringInt</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -201,7 +276,13 @@ object Demo
 }
 ```
 
+</p>
+</details>
+
 ### 1.6.-ImplicitImports 
+
+<details><summary>Show 1.6.-ImplicitImports</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -240,7 +321,13 @@ object Demo1 extends App
 }
 ```
 
+</p>
+</details>
+
 ### 1.7.-BaseEntities 
+
+<details><summary>Show 1.7.-BaseEntities</summary>
+<p>
 
 - DemoClassA.scala
 ```scala
@@ -330,12 +417,19 @@ class DemoVarVal
 </p>
 </details>
 
+</p>
+</details>
+
 # 2.- OOP I - No Inheritance
 
 <details><summary>Show Sections - 2.- OOP I - No Inheritance</summary>
 <p>
 
 ### OOP Intro
+
+<details><summary>Show OOP Intro</summary>
+<p>
+
 | Java                                  | Scala                                                  |  
 |---------------------------------------|--------------------------------------------------------|
 | class (only non-statics)              | class                                                  |
@@ -351,8 +445,14 @@ class DemoVarVal
 |	-								                      | case object = object + auto-generated code             |
 |	-								                      | package object                                         |
 
+</p>
+</details>
 
 ### Object Intro
+
+<details><summary>Show Object Intro</summary>
+<p>
+
 | Scala Object                          | Java static (fields, methods)                          |  
 |---------------------------------------|--------------------------------------------------------|
 | companion object = companion module   | class static members    (Person.MAX_AGE, ...)          |
@@ -360,7 +460,14 @@ class DemoVarVal
 | singleton                             | -                                                      |
 | package object                        | -                                                      |
 
+</p>
+</details>
+
 ### 2.1.-Var-Val-Implementation 
+
+<details><summary>Show 2.1.-Var-Val-Implementation</summary>
+<p>
+
 
 - Person0.scala
 ```scala
@@ -499,7 +606,13 @@ public class Person2J
 }
 ```
 
+</p>
+</details>
+
 ### 2.2.-Override-Accessor-Mutator
+
+<details><summary>Show 2.2.-Override-Accessor-Mutator</summary>
+<p>
 
 - Person0.scala
 ```scala
@@ -637,7 +750,13 @@ object  Person3Demo
 }
 ```
 
+</p>
+</details>
+
 ### 2.3.-Java-Bean-Style-Getter-Setter
+
+<details><summary>Show 2.3.-Java-Bean-Style-Getter-Setter</summary>
+<p>
 
 - Person0.scala
 ```scala
@@ -728,7 +847,13 @@ public class Person2DemoJ
 }
 ```
 
+</p>
+</details>
+
 ### 2.4.-Constructor-Primary
+
+<details><summary>Show 2.4.-Constructor-Primary</summary>
+<p>
 
 - Person0.scala
 ```scala
@@ -843,7 +968,13 @@ public class Person2DemoJ
 protected class Person3 protected ( private var   age   :   Int,  val   name    :   String)
 ```
 
+</p>
+</details>
+
 ### 2.5.-Constructor-Auxiliary
+
+<details><summary>Show 2.5.-Constructor-Auxiliary</summary>
+<p>
 
 - Person0.scala
 ```scala
@@ -922,7 +1053,13 @@ object  Person2Demo
 }
 ```
 
+</p>
+</details>
+
 ### 2.6.-Object-Utility-Functions-Constants
+
+<details><summary>Show 2.6.-Object-Utility-Functions-Constants</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -944,7 +1081,13 @@ object IntLib
 }
 ```
 
+</p>
+</details>
+
 ### 2.7.-Object-Companion-Object -  demo
+
+<details><summary>Show 2.7.-Object-Companion-Object - demo</summary>
+<p>
 
 - DemoJ.java
 ```java
@@ -1076,7 +1219,13 @@ object PrivateDemo
 }
 ```
 
+</p>
+</details>
+
 ### 2.8.-Object-Singleton
+
+<details><summary>Show 2.8.-Object-Singleton</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -1149,7 +1298,13 @@ object  Demo0
 }
 ```
 
+</p>
+</details>
+
 ### 2.9.-Methods-Simplification
+
+<details><summary>Show 2.9.-Methods-Simplification</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -1210,13 +1365,25 @@ class Demo
 }
 ```
 
+</p>
+</details>
+
 ### Methods: Parentless
+
+<details><summary>Show Methods: Parentless</summary>
+<p>
 
 - Composition and Inheritance - Defining parameterless methods - http://www.artima.com/pins1ed/composition-and-inheritance.html#10.3
 - Glossary - Scala Documentation - http://docs.scala-lang.org/glossary/#uniform-access-principle
 - Uniform access principle - https://en.wikipedia.org/wiki/Uniform_access_principle
 
+</p>
+</details>
+
 ### 2.10.-Methods-Parentless
+
+<details><summary>Show 2.10.-Methods-Parentless</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -1272,12 +1439,25 @@ object  Demo1Test
  */
 ```
 
+</p>
+</details>
+
 ### Methods: "Procedure" Style
+
+<details><summary>Show Methods: "Procedure" Style</summary>
+<p>
+
 - Basic Declarations and Definitions - http://www.scala-lang.org/files/archive/spec/2.11/04-basic-declarations-and-definitions.html#procedures
 - Style - Declarations - http://docs.scala-lang.org/style/declarations.html#procedure-syntax
 - Deprecate procedure syntax - https://issues.scala-lang.org/browse/SI-7605
 
+</p>
+</details>
+
 ### 2.11.-Methods-Procedure-Style
+
+<details><summary>Show 2.11.-Methods-Procedure-Style</summary>
+<p>
 
 - Demo.scala
 ```scala
@@ -1313,7 +1493,13 @@ object Demo
 }
 ```
 
+</p>
+</details>
+
 ### 2.12.-Imports
+
+<details><summary>Show 2.12.-Imports</summary>
+<p>
 
 - Demo0.scala
 ```scala
@@ -1479,6 +1665,9 @@ object Demo9
 </p>
 </details>
 
+</p>
+</details>
+
 # 3.- OOP II - Operator Overloading
 
 <details><summary>Show Sections - 3.- OOP II - Operator Overloading</summary>
@@ -1486,8 +1675,14 @@ object Demo9
   
 ### Operators: Intro
 
+<details><summary>Show Operators: Intro</summary>
+<p>
+
 - Operators - https://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.12
 - Prefix, Infix and Postfix Operations- http://www.scala-lang.org/files/archive/spec/2.11/06-expressions.html#prefix-infix-and-postfix-operations
+
+</p>
+</details>
 
 </p>
 </details>
