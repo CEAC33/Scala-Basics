@@ -2,6 +2,9 @@
 
 ## 1.- Intro
 
+<details><summary>Show Sections - 1.- Intro</summary>
+<p>
+
 ### Scala Levels 
 (Ref: http://www.scala-lang.org/old/node/8610)
 
@@ -324,7 +327,13 @@ class DemoVarVal
 }
 ```
 
+</p>
+</details>
+
 # 2.- OOP I - No Inheritance
+
+<details><summary>Show Sections - 2.- OOP I - No Inheritance</summary>
+<p>
 
 ### OOP Intro
 | Java                                  | Scala                                                  |  
@@ -1467,12 +1476,21 @@ object Demo9
 }
 ```
 
-# OOP II - Operator Overloading
+</p>
+</details>
 
+# 3.- OOP II - Operator Overloading
+
+<details><summary>Show Sections - 3.- OOP II - Operator Overloading</summary>
+<p>
+  
 ### Operators: Intro
+
 - Operators - https://docs.oracle.com/javase/specs/jls/se8/html/jls-3.html#jls-3.12
 - Prefix, Infix and Postfix Operations- http://www.scala-lang.org/files/archive/spec/2.11/06-expressions.html#prefix-infix-and-postfix-operations
 
+</p>
+</details>
 
 # Testing Tools
 - https://www.scalacheck.org/
